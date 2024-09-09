@@ -1,17 +1,15 @@
 # 👨‍🎓 Afif Jamhari
 
-**`Developer / Fullstack Dev`**
-
 I'm Afif Jamhari, a passionate college student at UPN "Veteran" Yogyakarta, currently diving into the exciting world of coding and web development. 🚀
 
 <br>
 
+<!-- 
 ## About Me
 
 - 📚 I'm a college student at UPN "Veteran" Yogyakarta.
 - 💻 Coding enthusiast and web development enthusiast.
 - 🌱 Currently on a journey of continuous learning and improvement.
-
 ###  Technologies I'm familiar with:
 <img align="left" style="padding-left: 20px;" height="40px" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" style="padding-left: 20px;" height="40px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -32,7 +30,7 @@ I'm Afif Jamhari, a passionate college student at UPN "Veteran" Yogyakarta, curr
 <br>
 
 `I'm actively learning and experimenting with new technologies to expand my skill set.`
-
+ -->
 ## Social
 
 - [LinkedIn](https://www.linkedin.com/in/afif-jamhari-672102152)
